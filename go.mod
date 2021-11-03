@@ -10,7 +10,7 @@ require (
 	github.com/docker/docker-credential-helpers v0.6.4 // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.4.0 // indirect
-	github.com/golangci/golangci-lint v1.42.1
+	github.com/golangci/golangci-lint v1.43.0
 	github.com/hokaccha/go-prettyjson v0.0.0-20210113012101-fb4e108d2519 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/mattn/go-isatty v0.0.14
@@ -23,7 +23,7 @@ require (
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/xeonx/timeago v1.0.0-rc4
-	golang.org/x/sys v0.0.0-20210809222454-d867a43fc93e
+	golang.org/x/sys v0.0.0-20211013075003-97ac67df715c
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
 	golang.org/x/tools v0.1.7
 	gopkg.in/yaml.v2 v2.4.0
